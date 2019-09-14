@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>http://localhost:4000/nullbyte-blog/beginner-s_guide_to_understand_ssh_and_setting_up_ssh_on_ubuntu/</loc>
+<lastmod>2015-09-16T00:00:00+05:30</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/nullbyte-blog/charm-old-cities/</loc>
 <lastmod>2019-01-18T00:00:00+05:30</lastmod>
 </url>
@@ -73,6 +77,14 @@
 <lastmod>2019-02-04T00:00:00+05:30</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/nullbyte-blog/Difference_between_fprintf_printf,sprintf/</loc>
+<lastmod>2019-09-14T00:00:00+05:30</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/nullbyte-blog/What_are_the_valid_signatures_for_c_main_function/</loc>
+<lastmod>2019-09-14T00:00:00+05:30</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/nullbyte-blog/404/</loc>
 </url>
 <url>
@@ -104,5 +116,8 @@
 </url>
 <url>
 <loc>http://localhost:4000/nullbyte-blog/page2/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/nullbyte-blog/page3/</loc>
 </url>
 </urlset>
